@@ -34,6 +34,7 @@ _site
 # auto-import.
 .idea/modules.xml
 .idea/*
+.vscode
 
 # CMake
 cmake-build-*/

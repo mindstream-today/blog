@@ -10,6 +10,8 @@ default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
 parallel_localization: true
 
+destination: ./docs
+
 markdown: kramdown
 theme: minima
 plugins:
